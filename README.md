@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcosRBjunior&theme=tokyonight&hide_border=true&border_radius=8" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MarcosRBjunior&theme=tokyonight&hide_border=true&border_radius=8&cb=1" alt="streak graph" />
 </p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
