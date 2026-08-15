@@ -8,7 +8,7 @@
   <img src="https://streak-stats.demolab.com?user=MarcosRBjunior&theme=tokyonight&hide_border=true&border_radius=8&cb=1" alt="streak graph" />
 </p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,js,html,css,py,solidity,mysql,docker&theme=dark" />
