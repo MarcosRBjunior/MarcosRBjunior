@@ -4,10 +4,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarcosRBjunior.MarcosRBjunior&style=for-the-badge&color=7AA2F7&text_color=1a1b27" alt="visitor badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcosRBjunior&theme=tokyonight&hide_border=true&border_radius=8&cb=1" alt="streak graph" />
-</p>
-
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
