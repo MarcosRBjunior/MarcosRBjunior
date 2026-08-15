@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1e0a3c,100:2d1060&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0B,50:16231A,100:223A28&height=140&section=header" width="100%"/>
 
 <div align="center">
 
@@ -9,19 +9,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=640&lines=REST+APIs+%C2%B7+Automated+Testing+%C2%B7+Full-Stack;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+TypeScript;Building+and+testing+real+projects." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1500&color=ABD200&center=true&vCenter=true&width=640&lines=REST+APIs+%C2%B7+Automated+Testing+%C2%B7+Full-Stack;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+TypeScript;Building+and+testing+real+projects." alt="Typing SVG" />
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e0a3c?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/marcos-ribeirojr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F0B?style=for-the-badge&logo=linkedin&logoColor=ABD200)](https://www.linkedin.com/in/marcos-ribeirojr)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1e0a3c?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/MarcosRBjunior)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0F0B?style=for-the-badge&logo=github&logoColor=ABD200)](https://github.com/MarcosRBjunior)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-1e0a3c?style=for-the-badge&logo=maildotru&logoColor=a78bfa)](mailto:marcosribeirojr@alunos.fho.edu.br)
+[![Email](https://img.shields.io/badge/Email-0A0F0B?style=for-the-badge&logo=maildotru&logoColor=ABD200)](mailto:marcosribeirojr@alunos.fho.edu.br)
 &nbsp;
-[![Location](https://img.shields.io/badge/Araras_SP-1e0a3c?style=for-the-badge&logo=googlemaps&logoColor=a78bfa)](#)
+[![Location](https://img.shields.io/badge/Araras_SP-0A0F0B?style=for-the-badge&logo=googlemaps&logoColor=ABD200)](#)
 &nbsp;
-[![Open to Opportunities](https://img.shields.io/badge/Open_to_Opportunities-1e0a3c?style=for-the-badge&logoColor=a78bfa)](#)
+[![Open to Opportunities](https://img.shields.io/badge/Open_to_Opportunities-0A0F0B?style=for-the-badge&logoColor=ABD200)](#)
 
 <br><br>
 
@@ -51,71 +51,71 @@ I care about writing code that's tested, documented and easy to reason about —
 
 <br>
 
-<table border="1" bordercolor="2d1060" cellspacing="0" cellpadding="16">
+<table border="1" bordercolor="2A3A2E" cellspacing="0" cellpadding="16">
 <tr>
 <td valign="top" width="50%">
 
 **Back-end**
 
-![Node.js](https://img.shields.io/badge/Node.js-1e0a3c?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
-![Express](https://img.shields.io/badge/Express-1e0a3c?style=flat-square&logo=express&logoColor=a78bfa)
-![REST API](https://img.shields.io/badge/REST_API-1e0a3c?style=flat-square&logoColor=a78bfa)
-![Sequelize](https://img.shields.io/badge/Sequelize-1e0a3c?style=flat-square&logo=sequelize&logoColor=a78bfa)
-![Mongoose](https://img.shields.io/badge/Mongoose-1e0a3c?style=flat-square&logoColor=a78bfa)
-![Python](https://img.shields.io/badge/Python-1e0a3c?style=flat-square&logo=python&logoColor=a78bfa)
+![Node.js](https://img.shields.io/badge/Node.js-0A0F0B?style=flat-square&logo=nodedotjs&logoColor=ABD200)
+![Express](https://img.shields.io/badge/Express-0A0F0B?style=flat-square&logo=express&logoColor=ABD200)
+![REST API](https://img.shields.io/badge/REST_API-0A0F0B?style=flat-square&logoColor=ABD200)
+![Sequelize](https://img.shields.io/badge/Sequelize-0A0F0B?style=flat-square&logo=sequelize&logoColor=ABD200)
+![Mongoose](https://img.shields.io/badge/Mongoose-0A0F0B?style=flat-square&logoColor=ABD200)
+![Python](https://img.shields.io/badge/Python-0A0F0B?style=flat-square&logo=python&logoColor=ABD200)
 
 <br>
 
 **Front-end**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1e0a3c?style=flat-square&logo=typescript&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-1e0a3c?style=flat-square&logo=react&logoColor=a78bfa)
-![Next.js](https://img.shields.io/badge/Next.js-1e0a3c?style=flat-square&logo=nextdotjs&logoColor=a78bfa)
-![Vite](https://img.shields.io/badge/Vite-1e0a3c?style=flat-square&logo=vite&logoColor=a78bfa)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e0a3c?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e0a3c?style=flat-square&logo=javascript&logoColor=a78bfa)
-![HTML5](https://img.shields.io/badge/HTML5-1e0a3c?style=flat-square&logo=html5&logoColor=a78bfa)
-![CSS3](https://img.shields.io/badge/CSS3-1e0a3c?style=flat-square&logo=css3&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0F0B?style=flat-square&logo=typescript&logoColor=ABD200)
+![React](https://img.shields.io/badge/React-0A0F0B?style=flat-square&logo=react&logoColor=ABD200)
+![Next.js](https://img.shields.io/badge/Next.js-0A0F0B?style=flat-square&logo=nextdotjs&logoColor=ABD200)
+![Vite](https://img.shields.io/badge/Vite-0A0F0B?style=flat-square&logo=vite&logoColor=ABD200)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0F0B?style=flat-square&logo=tailwindcss&logoColor=ABD200)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F0B?style=flat-square&logo=javascript&logoColor=ABD200)
+![HTML5](https://img.shields.io/badge/HTML5-0A0F0B?style=flat-square&logo=html5&logoColor=ABD200)
+![CSS3](https://img.shields.io/badge/CSS3-0A0F0B?style=flat-square&logo=css3&logoColor=ABD200)
 
 </td>
 <td valign="top" width="50%">
 
 **Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e0a3c?style=flat-square&logo=postgresql&logoColor=a78bfa)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e0a3c?style=flat-square&logo=mongodb&logoColor=a78bfa)
-![MySQL](https://img.shields.io/badge/MySQL-1e0a3c?style=flat-square&logo=mysql&logoColor=a78bfa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F0B?style=flat-square&logo=postgresql&logoColor=ABD200)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0F0B?style=flat-square&logo=mongodb&logoColor=ABD200)
+![MySQL](https://img.shields.io/badge/MySQL-0A0F0B?style=flat-square&logo=mysql&logoColor=ABD200)
 
 <br>
 
 **Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-1e0a3c?style=flat-square&logo=docker&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-1e0a3c?style=flat-square&logo=git&logoColor=a78bfa)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e0a3c?style=flat-square&logo=githubactions&logoColor=a78bfa)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-1e0a3c?style=flat-square&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-0A0F0B?style=flat-square&logo=docker&logoColor=ABD200)
+![Git](https://img.shields.io/badge/Git-0A0F0B?style=flat-square&logo=git&logoColor=ABD200)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F0B?style=flat-square&logo=githubactions&logoColor=ABD200)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0F0B?style=flat-square&logoColor=ABD200)
 
 <br>
 
 **Web3**
 
-![Solidity](https://img.shields.io/badge/Solidity-1e0a3c?style=flat-square&logo=solidity&logoColor=a78bfa)
-![Ethereum](https://img.shields.io/badge/Ethereum-1e0a3c?style=flat-square&logo=ethereum&logoColor=a78bfa)
+![Solidity](https://img.shields.io/badge/Solidity-0A0F0B?style=flat-square&logo=solidity&logoColor=ABD200)
+![Ethereum](https://img.shields.io/badge/Ethereum-0A0F0B?style=flat-square&logo=ethereum&logoColor=ABD200)
 
 </td>
 </tr>
 </table>
 
-<table border="1" bordercolor="2d1060" cellspacing="0" cellpadding="16" width="100%">
+<table border="1" bordercolor="2A3A2E" cellspacing="0" cellpadding="16" width="100%">
 <tr>
 <td valign="top">
 
 **Testes & Qualidade**
 
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-1e0a3c?style=flat-square&logoColor=a78bfa)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-1e0a3c?style=flat-square&logoColor=a78bfa)
-![E2E Testing](https://img.shields.io/badge/E2E_Testing-1e0a3c?style=flat-square&logoColor=a78bfa)
-![Node Test Runner](https://img.shields.io/badge/Node_Test_Runner-1e0a3c?style=flat-square&logoColor=a78bfa)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-0A0F0B?style=flat-square&logoColor=ABD200)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-0A0F0B?style=flat-square&logoColor=ABD200)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-0A0F0B?style=flat-square&logoColor=ABD200)
+![Node Test Runner](https://img.shields.io/badge/Node_Test_Runner-0A0F0B?style=flat-square&logoColor=ABD200)
 
 </td>
 </tr>
@@ -160,11 +160,11 @@ I care about writing code that's tested, documented and easy to reason about —
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosRBjunior&hide_border=true&background=0d0d1a&ring=8b5cf6&fire=c4b5fd&currStreakLabel=d4b8ff&sideLabels=7c6b9e&dates=4c1d95&currStreakNum=d4b8ff&sideNums=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosRBjunior&hide_border=true&theme=merko" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosRBjunior&bg_color=0d0d1a&color=8b5cf6&line=4c1d95&point=c4b5fd&area=true&area_color=2d1060&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosRBjunior&theme=merko&hide_border=true" width="96%" />
 
 </div>
 
@@ -180,6 +180,6 @@ I care about writing code that's tested, documented and easy to reason about —
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1060,50:1e0a3c,100:0d0d1a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:223A28,50:16231A,100:0A0F0B&height=100&section=footer" width="100%"/>
 
 </div>
