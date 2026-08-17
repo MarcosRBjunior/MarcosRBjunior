@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F0B,50:16231A,100:223A28&height=140&section=header" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosRBjunior/MarcosRBjunior/main/assets/hero.svg" width="900" />
+</p>
 
 <div align="center">
 
@@ -23,11 +25,7 @@
 &nbsp;
 [![Open to Opportunities](https://img.shields.io/badge/Open_to_Opportunities-0A0F0B?style=for-the-badge&logoColor=ABD200)](#)
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/MarcosRBjunior/MarcosRBjunior/main/assets/profile.gif" width="600"/>
-
-<br><br>
+<br>
 
 </div>
 
@@ -165,21 +163,5 @@ I care about writing code that's tested, documented and easy to reason about —
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosRBjunior&theme=merko&hide_border=true" width="96%" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<sub><sup>Araras — SP &nbsp;·&nbsp; marcosribeirojr@alunos.fho.edu.br</sup></sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:223A28,50:16231A,100:0A0F0B&height=100&section=footer" width="100%"/>
 
 </div>
