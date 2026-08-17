@@ -6,11 +6,6 @@
 
 <br>
 
-<h1>Marcos Ribeiro</h1>
-<p><sub>Backend &amp; Full-Stack Developer</sub></p>
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1500&color=ABD200&center=true&vCenter=true&width=640&lines=REST+APIs+%C2%B7+Automated+Testing+%C2%B7+Full-Stack;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+TypeScript;Building+and+testing+real+projects." alt="Typing SVG" />
 
 <br><br>
